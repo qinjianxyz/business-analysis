@@ -1,0 +1,16 @@
+﻿Services,PersonalCare,Building,Technical,Management,Legal,Entertainment,Physical,InPerson,AdvertisementConsumer,Education,LongTerm,Fame,Promotion,Food
+BeautySalon,1,0,0,0,0,1,1,1,0,0,1,0,1,0
+MessageTheracy,1,0,0,0,0,1,1,1,0,0,0,0,1,0
+BarberShop,1,0,1,0,0,1,1,1,0,0,1,1,1,0
+TattooParler,1,0,1,0,0,1,1,1,1,0,0,1,0,0
+Gym,0,0,0,0,0,1,1,1,1,1,1,1,1,0
+JanitorService,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+LandScaping,0,1,1,0,0,0,0,1,1,0,0,0,0,0
+PoolCleaning,0,1,1,0,0,0,0,1,0,0,0,0,0,0
+PhotographyService,0,0,1,1,0,1,0,1,1,1,0,1,0,0
+Veterinary,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+ConsultingService,0,0,1,1,1,0,0,0,1,1,0,0,0,0
+LegalServices,0,0,1,1,1,0,0,0,1,1,0,0,0,0
+RealEstateService,0,0,1,1,1,0,0,0,1,1,1,0,0,0
+TradeContractor,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Resurantants,0,0,0,0,0,1,1,1,1,0,1,1,1,1
