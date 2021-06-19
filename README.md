@@ -1,4 +1,4 @@
-### San Dieho Business Analysis
+### San Diego Business Analysis
 The yelp folder contains the important jupyter notebook for this project.
 The engine folder is a predictor of consumer behavior based on categorization of businesses.
 The Analysis uses the Yelp Fusion API to get information on over 5000 businesses and over 10000 reviews.
