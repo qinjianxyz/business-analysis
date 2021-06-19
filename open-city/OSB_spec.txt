@@ -1,0 +1,39 @@
+From Daniel a "spec" on the OSM*.txt files:
+
+The Boulevard BID data (El Cajón Boulevard)
+
+Column names:
+
+The file contains the following information:
+  Do Not Publish Indicator
+  Business Owner Name
+  Business Name
+  Business Phone
+  Business Account Number
+  Business Address - Street Number
+  Business Address - Street Fraction
+  Business Address - Street Pre Direction
+  Business Address - Street Name/Suffix/Post Direction
+  Business Address - Suite 
+  Business Address - PO Box
+  Business PMB
+  Business City/State/Zip
+  Home Based Indicator
+  Primary NAICS Code
+  Primary NAICS Description
+  New Business Indicator
+  Business Start Date
+  Business Expiration Date
+  Ownership Type
+  Fee Status
+  Balance Due
+  BID Fees Billed
+  BID Fees Paid
+  BID Penalties Paid
+  Number of Employees
+  Council District
+  Business Community Area
+  BID
+  Bid Description
+  Bid Zone
+  Bid Benefit Category
